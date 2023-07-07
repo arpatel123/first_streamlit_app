@@ -5,4 +5,4 @@ streamlit.text('🍞 Monday - Biled Egg')
 streamlit.text('Tuesday - Banana')
 streamlit.text('Wed - Fish')
 streamlit.text('Thus - Veg')
-                
+streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')                
