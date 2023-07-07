@@ -1,3 +1,3 @@
 import streamlit
-streamlit.title('My Parents New healthy Dinner
-Breakfast Meenu')
+streamlit.title('My Parents New healthy Dinner')
+strealit.title('Breakfast Meenu')
